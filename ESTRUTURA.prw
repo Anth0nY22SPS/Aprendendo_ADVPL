@@ -1,7 +1,7 @@
 #INCLUDE 'PROTHEUS.CH'
 /* include e o import das bibliotecas */
 
-/* define e para criaÃ§Ã£o de atalho */
+/* define e para criação de atalho */
 #DEFINE Quebra_linha CHR(13)+CHR(10)
 
 
