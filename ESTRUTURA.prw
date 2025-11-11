@@ -18,6 +18,7 @@
    para executar seu codigo customizado e Sim, ela é o alvo quando um item é selecionado no menu!
 
 */
+
 USER FUNCTION ESTRUTURA()
 
    Local nNum1 := 10
@@ -26,7 +27,8 @@ USER FUNCTION ESTRUTURA()
    /* cValtoChar() para transforma o numeros em caracters */
 
    Alert("Numeros multiplicados "+ Quebra_linha + cValtoChar(nNum1 + nNum2));
-    
+ 
+   
 RETURN
 
 
